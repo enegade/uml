@@ -22,12 +22,6 @@
     <description>java profiler with uml-like output</description>
 
     <dependencies>
-        <dependency>
-            <groupId>junit</groupId>
-            <artifactId>junit</artifactId>
-            <version>4.13</version>
-            <scope>test</scope>
-        </dependency>
 
         <!--  Gson: Java to Json conversion -->
         <dependency>
