@@ -73,8 +73,8 @@ inkscape -z -e class.png -w 2408 -h 1126 -b '#ffffff' class.svg
 <details>
   <summary>resulting diagrams (<i>click to expand</i>)</summary>
  
-  ![alt text](https://github.com/enegade/uml/blob/main/docs/imgs/readme/sequence_1.png?raw=true)
-  ![alt text](https://github.com/enegade/uml/blob/main/docs/imgs/readme/class_1.png?raw=true)
+  ![alt text](https://github.com/enegade/uml/blob/master/docs/imgs/readme/sequence_1.png?raw=true)
+  ![alt text](https://github.com/enegade/uml/blob/master/docs/imgs/readme/class_1.png?raw=true)
 </details>
 
 You can see thread map of running code. For that run
@@ -85,7 +85,7 @@ inkscape -z -e threads.png -w 729 -h 94 -b '#ffffff' threads.svg
 <details>
   <summary>resulting thread graph (<i>click to expand</i>)</summary>
   
-  ![alt text](https://github.com/enegade/uml/blob/main/docs/imgs/readme/threads.png?raw=true)
+  ![alt text](https://github.com/enegade/uml/blob/master/docs/imgs/readme/threads.png?raw=true)
 </details>
 
 Diagrams can be built for code running in a selected thread. By default, the main thread is selected. It is possible to select other thread by editing thread_creating_order parameter in config.properties.
@@ -116,8 +116,8 @@ inkscape -z -e class.png -w 759 -h 801 -b '#ffffff' class.svg
 <details>
   <summary>resulting diagrams (<i>click to expand</i>)</summary>
   
-  ![alt text](https://github.com/enegade/uml/blob/main/docs/imgs/readme/sequence_2.png?raw=true)
-  ![alt text](https://github.com/enegade/uml/blob/main/docs/imgs/readme/class_2.png?raw=true)
+  ![alt text](https://github.com/enegade/uml/blob/master/docs/imgs/readme/sequence_2.png?raw=true)
+  ![alt text](https://github.com/enegade/uml/blob/master/docs/imgs/readme/class_2.png?raw=true)
 </details>
 
 Besides **loop** constructions you can use **alt** constructions:
@@ -138,7 +138,7 @@ Besides **loop** constructions you can use **alt** constructions:
 <details>
   <summary>resulting diagrams (<i>click to expand</i>)</summary>
   
-  ![alt text](https://github.com/enegade/uml/blob/main/docs/imgs/readme/sequence_3.png?raw=true)
+  ![alt text](https://github.com/enegade/uml/blob/master/docs/imgs/readme/sequence_3.png?raw=true)
 </details>
 
 You can hide several method calls from a particular method by using the **hiding** construction. Place it into <i>hidingConditions</i> selector:
@@ -159,7 +159,7 @@ You can hide several method calls from a particular method by using the **hiding
 <details>
   <summary>resulting diagrams (<i>click to expand</i>)</summary>
   
-  ![alt text](https://github.com/enegade/uml/blob/main/docs/imgs/readme/sequence_4.png?raw=true)
+  ![alt text](https://github.com/enegade/uml/blob/master/docs/imgs/readme/sequence_4.png?raw=true)
 </details>
 
 </details>
