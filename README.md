@@ -167,7 +167,3 @@ You can hide several method calls from a particular method by using the **hiding
 
 I hope you'll find this tool useful for some of your use cases. You can address me any issues. Any contribution are welcomed.
 
-### TODO
-
-- Provide tests and API documentations.
-- Implement logging.
